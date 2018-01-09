@@ -11,7 +11,11 @@ body{
 .content {
     width: 80%;
     margin: 5% auto;
+<<<<<<< HEAD
     text-align: center;
+=======
+    text-align： center；
+>>>>>>> ae1ebb6c1c5292b21faea21a13c01cff663a90c4
 }
 .content .logo {
     width: 6rem;
