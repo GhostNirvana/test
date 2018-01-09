@@ -11,6 +11,7 @@ body{
 .content {
     width: 80%;
     margin: 5% auto;
+    text-align： center；
 }
 .content .logo {
     width: 6rem;
