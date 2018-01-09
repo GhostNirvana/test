@@ -2,20 +2,16 @@ body{
     background:#68cdd5;
     font-size:62.5%;
 }
-/*头部样式*/
 .arrows {
     width: 100%;
 }
-/*左上箭头样式*/
 .return img {
     width: 2rem;
 }
-/*内容样式*/
 .content {
     width: 80%;
     margin: 5% auto;
 }
-/*葡萄藤logo样式*/
 .content .logo {
     width: 6rem;
     margin-top:5%;
@@ -25,7 +21,6 @@ body{
 .content .logo img {
     width: 6rem;
 }
-/*文字样式*/
 .content p {
     width: 100%;
     font-size: 0.9rem;
