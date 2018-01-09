@@ -11,11 +11,7 @@ body{
 .content {
     width: 80%;
     margin: 5% auto;
-<<<<<<< HEAD
     text-align: center;
-=======
-    text-align： center；
->>>>>>> ae1ebb6c1c5292b21faea21a13c01cff663a90c4
 }
 .content .logo {
     width: 6rem;
@@ -29,7 +25,7 @@ body{
 .content p {
     width: 100%;
     font-size: 0.9rem;
-    color:white;
+    color: #fff;
     line-height:1.5rem;
     letter-spacing: 0.1rem;
     font-family: "微软雅黑 Light";
@@ -53,5 +49,5 @@ body{
 }
 .footer p {
     font-size: 0.9rem;
-    color:white;
+    color: #fff;
 }
