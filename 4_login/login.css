@@ -1,0 +1,101 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 62.5%;
+}
+.main {
+	width: 100%;
+	background-color: #EFF0F4;
+}
+.header {
+	/*position: fixed;*/
+	background-color: #5FBFCD;
+	width: 100%;
+	height: 3rem;
+	text-align: center;
+	top: 0;
+	left: 0;
+	right: 0;
+	/*padding: 0 1rem;*/
+}
+.close {
+	float: left;
+	border: none;
+	width: 4rem;
+	height: 3rem;
+	color: #FFF;
+	background-color: #5FBFCD;
+	font-size: 1rem
+}
+.header span {
+	padding: 0 1rem;
+	font-size: 1.4rem;
+	line-height: 3rem;
+	color: #fff;
+	font-weight: normal;
+}
+.register {
+	float: right;
+	border: none;
+	width: 4rem;
+	height: 3rem;
+	color: #FFF;
+	background-color: #5FBFCD;
+	font-size: 1rem;
+	cursor:pointer;
+}
+.typing {
+	width: 100%;
+	height: 3rem;
+	margin-top: 0.2rem;
+}
+.typing input {
+	background: #fff url(task4imgs/1.png) 0.8rem 0.7rem no-repeat;
+	display: inline-block;
+	width: 100%;
+	height: 3rem;
+	border: none;
+	outline: none;
+	padding-left: 3.6rem;
+}
+input:-moz-placeholder { color: #E7EAEC; }
+::-webkit-input-placeholder { color:#E7EAEC; }
+.pwd {
+	width: 100%;
+	height: 3rem;
+	margin-top: 0.2rem;
+}
+.pwd input {
+	background: #fff url(task4imgs/2.png) 0.8rem 0.7rem no-repeat;
+	display: inline-block;
+	width: 100%;
+	height: 3rem;
+	border: none;
+	outline: none;
+	padding-left: 3.6rem;
+}
+.login {
+	width: 100%;
+	height: 3.5rem;
+	background-color: #5FBFCD;
+	font-size: 1.6rem;
+	text-align: center;
+	margin-top: 0.3rem;
+}
+.login button {
+	font-size: 1.8rem;
+	line-height: 3.5rem;
+	background-color: #5FBFCD;
+	color: #FFF;
+	border: none;
+	cursor:pointer
+}
+.forget {
+	float: right;
+	margin-top: 0.2rem;
+	margin-right: 0.2rem;
+	font-size: 1.2rem;
+	color: #5BC0CF;
+}
